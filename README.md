@@ -19,3 +19,11 @@
 
 ## wiki
 * https://wiki.osdev.org
+
+## collections
+* https://gist.github.com/influenza/9085128
+* https://github.com/xairy/linux-kernel-exploitation
+* https://github.com/khatribharat/linux-dev
+* https://github.com/rynsy/awesome-kernel
+* https://github.com/jubalh/awesome-os
+* https://github.com/fkromer/awesome-embedded-linux
