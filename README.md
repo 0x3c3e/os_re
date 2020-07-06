@@ -17,6 +17,9 @@
 ## virtual memory
 * https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX
 
+## TLB
+* https://cs.stackexchange.com/a/94230
+
 ## wiki
 * https://wiki.osdev.org
 
