@@ -30,3 +30,6 @@
 * https://github.com/rynsy/awesome-kernel
 * https://github.com/jubalh/awesome-os
 * https://github.com/fkromer/awesome-embedded-linux
+
+## concurrency
+* https://www.youtube.com/watch?v=XTP6imvCXr4
