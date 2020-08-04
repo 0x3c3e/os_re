@@ -39,3 +39,4 @@
 * https://www.technovelty.org/linux/shared-libraries-and-execute-permissions.html
 * https://www.technovelty.org/c/position-independent-code-and-x86-64-libraries.html
 * https://www.technovelty.org/linux/toolchains-libc-and-interesting-interactions.html
+* https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
