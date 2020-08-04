@@ -33,3 +33,9 @@
 
 ## concurrency
 * https://www.youtube.com/watch?v=XTP6imvCXr4
+
+## dynamic linking
+* https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html
+* https://www.technovelty.org/linux/shared-libraries-and-execute-permissions.html
+* https://www.technovelty.org/c/position-independent-code-and-x86-64-libraries.html
+* https://www.technovelty.org/linux/toolchains-libc-and-interesting-interactions.html
