@@ -40,3 +40,7 @@
 * https://www.technovelty.org/c/position-independent-code-and-x86-64-libraries.html
 * https://www.technovelty.org/linux/toolchains-libc-and-interesting-interactions.html
 * https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
+
+## compilers
+* https://queue.acm.org/detail.cfm?id=3372264
+* https://www.youtube.com/watch?v=bSkpMdDe4g4
