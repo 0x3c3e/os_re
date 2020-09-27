@@ -44,3 +44,7 @@
 ## compilers
 * https://queue.acm.org/detail.cfm?id=3372264
 * https://www.youtube.com/watch?v=bSkpMdDe4g4
+
+## inline asm
+* https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html
+* https://gcc.gnu.org/onlinedocs/gcc/Constraints.html#Constraints
